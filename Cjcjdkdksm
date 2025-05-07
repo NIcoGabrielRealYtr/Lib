@@ -117,7 +117,7 @@ end
    Button.Text = "Tiger X"
    Button.TextColor3 = Color3.fromRGB(52,171,47)
    Button.TextScaled = true
-   Button.TextSize = 14.000
+   Button.TextSize = 20.000
    Button.TextWrapped = true
    Button.Draggable = true
    
