@@ -37,7 +37,7 @@ local Themes = {
 	Names = {
 		"Dark",
 		"Darker", 
-		"Tiger X", 
+		"Tiger", 
 		"AMOLED",
 		"Light",
 		"Balloon",
@@ -118,8 +118,8 @@ local Themes = {
 		DialogInputLine = Color3.fromRGB(120, 120, 120),
 		Text = Color3.fromRGB(161, 161, 161),
 	},
-	Tiger X = {
-		Name = "Tiger X",
+	Tiger = {
+		Name = "Tiger",
 		Accent = Color3.fromRGB(105, 105, 105),
 		AcrylicMain = Color3.fromRGB(30, 30, 30),
 		AcrylicBorder = Color3.fromRGB(60, 60, 60),
