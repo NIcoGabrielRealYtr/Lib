@@ -116,6 +116,7 @@ local Themes = {
 		DialogInput = Color3.fromRGB(52,171,47),
 		DialogInputLine = Color3.fromRGB(120, 120, 120),
 		Text = Color3.fromRGB(52,171,47),
+		SubText = Color3.fromRGB(52,171,47),
 	},
 	AMOLED = {
 		Name = "AMOLED",
